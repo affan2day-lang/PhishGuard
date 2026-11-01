@@ -1,5 +1,5 @@
 # PhishGuard 🎣🛡️
-
+https://affan2day-lang.github.io/PhishGuard/
 A tiny, dependency-free phishing link detector. Give it a URL, get a risk score and the reasons behind it.
 
 > Learning project. It uses simple heuristics, so expect false positives and misses. Don't rely on it as your only protection.
